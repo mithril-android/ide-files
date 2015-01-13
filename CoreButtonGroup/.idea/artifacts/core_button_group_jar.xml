@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="core-button-group:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/core_button_group_jar</output-path>
+    <root id="archive" name="core-button-group.jar">
+      <element id="module-output" name="core-button-group" />
+    </root>
+  </artifact>
+</component>
